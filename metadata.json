@@ -1,0 +1,7 @@
+{
+  "name": "Celestial Birthday Surprise",
+  "description": "A futuristic, romantic birthday experience featuring AI-generated emotional messages, floating glowing hearts, and smooth GSAP animations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
